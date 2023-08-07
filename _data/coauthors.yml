@@ -1,34 +1,43 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Scherer":
+  - firstname: ["Sebastian"]
+    url: https://theairlab.org/team/sebastian/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Jatavallabhula":
+  - firstname: ["Krishna Murthy", "Krishna"]
+    url: https://krrish94.github.io/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Paull":
+  - firstname: ["Liam"]
+    url: https://liampaull.ca/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Garg":
+  - firstname: ["Sourav"]
+    url: https://researchers.adelaide.edu.au/profile/sourav.garg
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Milford":
+  - firstname: ["Michael"]
+    url: https://www.qut.edu.au/research/michael-milford
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Wang":
+  - firstname: ["Chen"]
+    url: https://sairlab.org/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Qiu":
+  - firstname: ["Yuheng"]
+    url: https://www.linkedin.com/in/yuheng-qiu-6bb9151b0
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Xu":
+  - firstname: ["Kuan"]
+    url: https://scholar.google.com/citations?user=-p7HvCMAAAAJ
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Karhade":
+  - firstname: ["Jay"]
+    url: https://jaykarhade.github.io/
+
+"Mishra":
+  - firstname: ["Avneesh"]
+    url: https://theprojectsguy.github.io/
+
+"Krishna":
+  - firstname: ["Madhava"]
+    url: https://robotics.iiit.ac.in/

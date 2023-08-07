@@ -1,26 +1,29 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD in Robotics @ <a href='https://www.ri.cmu.edu/'>The Robotics Institute, CMU</a> • Wander into the unknown 🛣️
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>RI-SQH, CMU</p>
+    <p>1723 Murray Ave</p>
+    <p>Pittsburgh, PA 15232</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm a PhD student at Carnegie Mellon University (CMU) advised by [Sebastian Scherer](https://theairlab.org/team/sebastian/), as a part of the [AirLab](https://theairlab.org/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have an innate passion for understanding how human perception & navigation works and how we can build real-world deployable autonomous systems with a positive societal impact. In pursuit of this passion, I aim to build efficient perception systems which leverage the inherent temporality and structure of the real world. My research interests lie at the intersection of temporal computer vision, field robotics, cognitive neuroscience, and self-supervised learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I recently received a Bachelor's degree in Engineering Physics from [IIT (ISM) Dhanbad, India](https://www.iitism.ac.in/iitismnew/). During my undergrad, I had the pleasure to intern at [Mila](https://mila.quebec/en/) and [QUT Centre for Robotics](https://research.qut.edu.au/qcr/) and was also a [2021 CMU Robotics Institute Summer Scholar](https://riss.ri.cmu.edu/).
+
+I'm grateful to have wonderful mentors and collaborators including [Krishna Murthy](https://krrish94.github.io/), [Sourav Garg](https://staff.qut.edu.au/staff/s.garg), [Liam Paull](https://liampaull.ca/), [Michael Milford](https://www.qut.edu.au/research/michael-milford), [Chen Wang](https://chenwang.site/), and other awesome researchers!
+
+Apart from research, I'm a huge movie buff and find recreation in cooking, music, anime, and gaming.
