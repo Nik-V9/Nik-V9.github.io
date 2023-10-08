@@ -22,8 +22,6 @@ Hello! I'm a PhD student at Carnegie Mellon University (CMU) advised by [Sebasti
 
 I have an innate passion for understanding how human perception & navigation works and how we can build real-world deployable autonomous systems with a positive societal impact. In pursuit of this passion, I aim to build efficient perception systems which leverage the inherent temporality and structure of the real world. My research interests lie at the intersection of temporal computer vision, field robotics, cognitive neuroscience, and self-supervised learning.
 
-I recently received a Bachelor's degree in Engineering Physics from [IIT (ISM) Dhanbad, India](https://www.iitism.ac.in/iitismnew/). During my undergrad, I had the pleasure to intern at [Mila](https://mila.quebec/en/) and [QUT Centre for Robotics](https://research.qut.edu.au/qcr/) and was also a [2021 CMU Robotics Institute Summer Scholar](https://riss.ri.cmu.edu/).
-
-I'm grateful to have wonderful mentors and collaborators including [Krishna Murthy](https://krrish94.github.io/), [Sourav Garg](https://staff.qut.edu.au/staff/s.garg), [Liam Paull](https://liampaull.ca/), [Michael Milford](https://www.qut.edu.au/research/michael-milford), [Chen Wang](https://chenwang.site/), and other awesome researchers!
+I received a Bachelor's degree in Engineering Physics from [IIT (ISM) Dhanbad, India](https://www.iitism.ac.in/iitismnew/). During my undergrad, I had the pleasure to intern at [Mila](https://mila.quebec/en/) and [QUT Centre for Robotics](https://research.qut.edu.au/qcr/) and was also a [2021 CMU Robotics Institute Summer Scholar](https://riss.ri.cmu.edu/). I'm grateful to have many wonderful mentors and collaborators!
 
 Apart from research, I'm a huge movie buff and find recreation in cooking, music, anime, and gaming.
