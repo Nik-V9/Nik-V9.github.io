@@ -2,9 +2,21 @@
   - firstname: ["Sebastian"]
     url: https://theairlab.org/team/sebastian/
 
+"Ramanan":
+  - firstname: ["Deva", "Deva Kannan"]
+    url: https://www.cs.cmu.edu/~deva/
+
 "Jatavallabhula":
   - firstname: ["Krishna Murthy", "Krishna"]
     url: https://krrish94.github.io/
+
+"Luiten":
+  - firstname: ["Jonathon"]
+    url: https://www.vision.rwth-aachen.de/person/216/
+
+"Yang":
+  - firstname: ["Gengshan"]
+    url: https://gengshan-y.github.io/
 
 "Paull":
   - firstname: ["Liam"]

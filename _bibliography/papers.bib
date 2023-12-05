@@ -1,6 +1,20 @@
 ---
 ---
 
+@article{keetha2023splatam,
+  title = {SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM},
+  author = {Nikhil Keetha and Jay Karhade and Krishna Murthy Jatavallabhula and Gengshan Yang and Sebastian Scherer and Deva Ramanan and Jonathon Luiten},
+  journal = {Arxiv},
+  year = {2023},
+  website = {https://spla-tam.github.io/},
+  pdf = {https://arxiv.org/pdf/2312.02126.pdf},
+  code = {https://github.com/spla-tam/SplaTAM},
+  preview = {gif/splatam.gif},
+  abstract = {Dense simultaneous localization and mapping (SLAM) is pivotal for embodied scene understanding. Recent work has shown that 3D Gaussians enable high-quality reconstruction and real-time rendering of scenes using multiple posed cameras. In this light, we show for the first time that representing a scene by 3D Gaussians can enable dense SLAM using a single unposed monocular RGB-D camera. Our method, SplaTAM, addresses the limitations of prior radiance field-based representations, including fast rendering and optimization, the ability to determine if areas have been previously mapped, and structured map expansion by adding more Gaussians. We employ an online tracking and mapping pipeline while tailoring it to specifically use an underlying Gaussian representation and silhouette-guided optimization via differentiable rendering. Extensive experiments show that SplaTAM achieves up to 2X state-of-the-art performance in camera pose estimation, map construction, and novel-view synthesis, demonstrating its superiority over existing approaches, while allowing real-time rendering of a high-resolution dense 3D map.},
+  thread = {https://x.com/Nik__V__/status/1731840557553496410?s=20},
+  selected = {true},
+}
+
 @article{keetha2023anyloc,
   title = {AnyLoc: Towards Universal Visual Place Recognition},
   author = {Nikhil Keetha* and Avneesh Mishra* and Jay Karhade* and Krishna Murthy Jatavallabhula and Sebastian Scherer and Madhava Krishna and Sourav Garg},
@@ -52,6 +66,17 @@
   code = {https://github.com/Nik-V9/U-Det},
   preview = {img/udet.jpg},
   abstract = {Early diagnosis and analysis of lung cancer involve a precise and efficient lung nodule segmentation in computed tomography (CT) images. However, the anonymous shapes, visual features, and surroundings of the nodule in the CT image pose a challenging problem to the robust segmentation of the lung nodules. This article proposes U-Det, a resource-efficient model architecture, which is an end to end deep learning approach to solve the task at hand. It incorporates a Bi-FPN (bidirectional feature network) between the encoder and decoder. Furthermore, it uses Mish activation function and class weights of masks to enhance segmentation efficiency. The proposed model is extensively trained and evaluated on the publicly available LUNA-16 dataset consisting of 1186 lung nodules. The U-Det architecture outperforms the existing U-Net model with the Dice similarity coefficient (DSC) of 82.82% and achieves results comparable to human experts.},
+}
+
+@article{he2023foundloc,
+  title={FoundLoc: Vision-based Onboard Aerial Localization in the Wild},
+  author={Yao He* and Ivan Cisneros* and Nikhil Keetha and Jay Patrikar and Zelin Ye and Ian Higgins and Yaoyu Hu and Parv Kapoor and Sebastian Scherer},
+  journal = {Arxiv},
+  year = {2023},
+  website = {https://anyloc.github.io/FoundLoc/},
+  pdf = {https://arxiv.org/pdf/2310.16299.pdf},
+  preview = {gif/foundloc.gif},
+  abstract = {Robust and accurate localization for Unmanned Aerial Vehicles (UAVs) is an essential capability to achieve autonomous, long-range flights. Current methods either rely heavily on GNSS, face limitations in visual-based localization due to appearance variances and stylistic dissimilarities between camera and reference imagery, or operate under the assumption of a known initial pose. In this paper, we developed a GNSS-denied localization approach for UAVs that harnesses both Visual-Inertial Odometry (VIO) and Visual Place Recognition (VPR) using a foundation model. This paper presents a novel vision-based pipeline that works exclusively with a nadir-facing camera, an Inertial Measurement Unit (IMU), and pre-existing satellite imagery for robust, accurate localization in varied environments and conditions. Our system demonstrated average localization accuracy within a 20-meter range, with a minimum error below 1 meter, under real-world conditions marked by drastic changes in environmental appearance and with no assumption of the vehicle's initial pose. The method is proven to be effective and robust, addressing the crucial need for reliable UAV localization in GNSS-denied environments, while also being computationally efficient enough to be deployed on resource-constrained platforms.},
 }
 
 @article{jatavallabhula2023conceptfusion,
