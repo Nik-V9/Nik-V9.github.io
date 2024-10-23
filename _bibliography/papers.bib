@@ -1,11 +1,47 @@
 ---
 ---
 
-@article{keetha2023splatam,
+@article{ho2024map,
+  title={Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using Large-scale Public Data},
+  author={Ho*, Cherie and Zou*, Jiaye and Alama*, Omar and Kumar, Sai Mitheran Jagadesh and Chiang, Benjamin and Gupta, Taneesh and Wang, Chen and Keetha, Nikhil and Sycara, Katia and Scherer, Sebastian},
+  journal={NeurIPS},
+  year={2024},
+  abstract={Top-down Bird's Eye View (BEV) maps are a popular representation for ground robot navigation due to their richness and flexibility for downstream tasks. While recent methods have shown promise for predicting BEV maps from First-Person View (FPV) images, their generalizability is limited to small regions captured by current autonomous vehicle-based datasets. In this context, we show that a more scalable approach towards generalizable map prediction can be enabled by using two large-scale crowd-sourced mapping platforms, Mapillary for FPV images and OpenStreetMap for BEV semantic maps. We introduce Map It Anywhere (MIA), a data engine that enables seamless curation and modeling of labeled map prediction data from existing open-source map platforms. Using our MIA data engine, we display the ease of automatically collecting a 1.2 million FPV & BEV pair dataset encompassing diverse geographies, landscapes, environmental factors, camera models & capture scenarios. We further train a simple camera model-agnostic model on this data for BEV map prediction. Extensive evaluations using established benchmarks and our dataset show that the data curated by MIA enables effective pretraining for generalizable BEV map prediction, with zero-shot performance far exceeding baselines trained on existing datasets by 35%. Our analysis highlights the promise of using large-scale public maps for developing & testing generalizable BEV perception, paving the way for more robust autonomous navigation.},
+  website={https://mapitanywhere.github.io/},
+  pdf={https://arxiv.org/pdf/2407.08726},
+  code={https://github.com/MapItAnywhere/MapItAnywhere},
+  thread={https://x.com/hocherie1/status/1814265523636506931},
+  preview={gif/mia.gif},
+  selected={true},
+}
+
+@article{patrikar2024tartanaviation,
+  title={TartanAviation: Image, Speech, and ADS-B Trajectory Datasets for Terminal Airspace Operations},
+  author={Patrikar, Jay and Dantas, Joao and Moon, Brady and Hamidi, Milad and Ghosh, Sourish and Keetha, Nikhil and others},
+  journal={ArXiv},
+  year={2024},
+  pdf={https://arxiv.org/pdf/2403.03372.pdf},
+  website={https://theairlab.org/tartanaviation/},
+  code={https://github.com/castacks/TartanAviation},
+  preview={img/TartanAviationBanner.png},
+}
+
+@article{hu2023toward,
+  title={Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis},
+  author={Yafei Hu* and Quanting Xie* and Vidhi Jain* and Jonathan Francis and Jay Patrikar and Nikhil Keetha and others},
+  journal={ArXiv},
+  year={2023},
+  website={https://robotics-fm-survey.github.io/},
+  pdf={https://arxiv.org/pdf/2312.08782},
+  thread={https://x.com/DanielXieee/status/1841602679027462384},
+  preview={img/RFM_survey.png},
+}
+
+@article{keetha2024splatam,
   title = {SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM},
   author = {Nikhil Keetha and Jay Karhade and Krishna Murthy Jatavallabhula and Gengshan Yang and Sebastian Scherer and Deva Ramanan and Jonathon Luiten},
-  journal = {Arxiv},
-  year = {2023},
+  journal = {CVPR},
+  year = {2024},
   website = {https://spla-tam.github.io/},
   pdf = {https://arxiv.org/pdf/2312.02126.pdf},
   code = {https://github.com/spla-tam/SplaTAM},
@@ -31,10 +67,10 @@
   selected = {true},
 }
 
-@inproceedings{keetha2022airobject,
+@article{keetha2022airobject,
   title = {AirObject: A Temporally Evolving Graph Embedding for Object Identification},
   author = {Nikhil Keetha and Chen Wang and Yuheng Qiu and Kuan Xu and Sebastian Scherer},
-  booktitle = {CVPR},
+  journal = {CVPR},
   year = {2022},
   blog = {https://theairlab.org/airobject/},
   pdf = {https://openaccess.thecvf.com/content/CVPR2022/html/Keetha_AirObject_A_Temporally_Evolving_Graph_Embedding_for_Object_Identification_CVPR_2022_paper.html},

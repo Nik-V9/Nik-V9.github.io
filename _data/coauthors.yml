@@ -38,10 +38,6 @@
   - firstname: ["Yuheng"]
     url: https://www.linkedin.com/in/yuheng-qiu-6bb9151b0
 
-"Xu":
-  - firstname: ["Kuan"]
-    url: https://scholar.google.com/citations?user=-p7HvCMAAAAJ
-
 "Karhade":
   - firstname: ["Jay"]
     url: https://jaykarhade.github.io/
@@ -53,3 +49,23 @@
 "Krishna":
   - firstname: ["Madhava"]
     url: https://robotics.iiit.ac.in/
+
+"Ho":
+  - firstname: ["Cherie"]
+    url: https://cherieho.com/
+
+"Patrikar":
+  - firstname: ["Jay"]
+    url: https://www.jaypatrikar.me/
+
+"Moon":
+  - firstname: ["Brady"]
+    url: https://bradymoon.com/
+
+"He":
+  - firstname: ["Yao"]
+    url: https://shockwavehe.github.io/
+
+"Hu":
+  - firstname: ["Yafei"]
+    url: https://jeffreyyh.github.io/
