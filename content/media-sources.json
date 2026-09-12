@@ -1,0 +1,169 @@
+{
+  "portrait": {
+    "source": "User-provided April_2026_portrait.jpg",
+    "processing": "Resized and compressed; no generative edits"
+  },
+  "research": [
+    {
+      "id": "multiperspective",
+      "source_page": "https://ethanweber.me/",
+      "credit": "Project authors",
+      "files": [
+        "/assets/media/multiperspective.webp",
+        "/assets/media/multiperspective.mp4"
+      ],
+      "original_url": "https://ethanweber.me/realitylabs/4.mp4",
+      "selection": "Text-free interior panorama. The coauthor page labels this task Text to 360 Video.",
+      "reuse": "Publicly linked by coauthor Ethan Weber. No explicit media reuse license found on the page.",
+      "processing": "H.264/yuv420p MP4, width capped at 600 without upscaling (even dimensions for H.264), 24 fps, no audio, faststart. WebP poster sampled from final encode."
+    },
+    {
+      "id": "any4d",
+      "source_page": "https://any-4d.github.io/",
+      "credit": "Project authors",
+      "files": [
+        "/assets/media/any4d.webp",
+        "/assets/media/any4d.mp4"
+      ],
+      "original_filename": "any4d_tracks_climbing.mp4",
+      "origin": "User-provided research media",
+      "processing": "Excerpted as a short muted H.264 loop, up to 600px wide, with a WebP poster."
+    },
+    {
+      "id": "raven",
+      "source_page": "https://raven-semantic.github.io/",
+      "credit": "Project authors",
+      "files": [
+        "/assets/media/raven.webp",
+        "/assets/media/raven.mp4"
+      ],
+      "original_url": "https://raven-semantic.github.io/assets/real-robot.mp4",
+      "selection": "Real robot experiment with a dominant 3D map, yellow trajectory, and small inset camera view; less text than the introductory GIF.",
+      "reuse": "Publicly linked by original project website. No explicit media reuse license found. The project footer license wording is for the Nerfies website template, not clearly the research media.",
+      "processing": "H.264/yuv420p MP4, width capped at 600 without upscaling (even dimensions for H.264), 24 fps, no audio, faststart. WebP poster sampled from final encode."
+    },
+    {
+      "id": "mapanything",
+      "source_page": "https://map-anything.github.io/",
+      "credit": "Project authors",
+      "files": [
+        "/assets/media/mapanything.webp",
+        "/assets/media/mapanything.mp4"
+      ],
+      "original_filename": "SfM_Outdoor_iPhone.mp4",
+      "origin": "User-provided research media",
+      "processing": "Excerpted as a short muted H.264 loop, up to 600px wide, with a WebP poster."
+    },
+    {
+      "id": "ufm",
+      "source_page": "https://uniflowmatch.github.io/",
+      "credit": "Project authors",
+      "files": [
+        "/assets/media/ufm.webp",
+        "/assets/media/ufm.mp4"
+      ],
+      "original_filename": "bike_video.mp4",
+      "origin": "User-provided research media",
+      "processing": "Excerpted as a short muted H.264 loop, up to 600px wide, with a WebP poster."
+    },
+    {
+      "id": "visafe",
+      "source_page": "https://theairlab.org/visafe/",
+      "credit": "Project authors",
+      "files": [
+        "/assets/media/visafe.webp",
+        "/assets/media/visafe.mp4"
+      ],
+      "original_filename": "visafe_teaser.mp4",
+      "origin": "User-provided research media",
+      "processing": "Excerpted as a short muted H.264 loop, up to 600px wide, with a WebP poster."
+    },
+    {
+      "id": "rayfronts",
+      "source_page": "https://seungchan-kim.github.io/",
+      "credit": "Project authors",
+      "files": [
+        "/assets/media/rayfronts.webp",
+        "/assets/media/rayfronts.mp4"
+      ],
+      "original_url": "https://seungchan-kim.github.io/images/rayfronts-teaser.gif",
+      "selection": "Coauthor portfolio teaser is already designed for a 160px publication thumbnail and avoids the project video title card.",
+      "reuse": "Publicly linked by coauthor Seungchan Kim. No explicit media reuse license found. The project footer license wording is for the Nerfies website template, not clearly the research media.",
+      "processing": "H.264/yuv420p MP4, width capped at 600 without upscaling (even dimensions for H.264), 24 fps, no audio, faststart. WebP poster sampled from final encode."
+    },
+    {
+      "id": "flowr",
+      "source_page": "https://tobiasfshr.github.io/pub/flowr/",
+      "credit": "Project authors",
+      "files": [
+        "/assets/media/flowr.webp",
+        "/assets/media/flowr.mp4"
+      ],
+      "original_url": "https://tobiasfshr.github.io/pub/flowr/teaser.gif",
+      "selection": "Official project hero teaser: architectural walkthrough with wipe comparison and small method labels.",
+      "reuse": "Publicly linked as project featured image on Tobias Fischer website. No explicit media reuse license found; site footer reserves copyright.",
+      "processing": "H.264/yuv420p MP4, width capped at 600 without upscaling (even dimensions for H.264), 24 fps, no audio, faststart. WebP poster sampled from final encode."
+    },
+    {
+      "id": "hyperscape",
+      "source_page": "https://about.fb.com/ja/news/2024/09/connect-2024-keynote-recap-quest-3s-llama-3-2-ai-wearables-mixed-reality/",
+      "credit": "Meta",
+      "files": [
+        "/assets/media/hyperscape.webp",
+        "/assets/media/hyperscape.mp4"
+      ],
+      "original_url": "https://about.fb.com/ja/wp-content/uploads/sites/15/2024/09/Meta-Quest-3-Demo.gif",
+      "selection": "Official Meta 2024 preview: artist studio, car, objects, and furniture; no titles or presentation stage.",
+      "reuse": "Published by Meta in its official newsroom. Credit Meta. No explicit media reuse license found on the announcement.",
+      "processing": "H.264/yuv420p MP4, width capped at 600 without upscaling (even dimensions for H.264), 24 fps, no audio, faststart. WebP poster sampled from final encode."
+    },
+    {
+      "id": "mapitanywhere",
+      "source_page": "https://mapitanywhere.github.io/",
+      "credit": "Project authors",
+      "files": [
+        "/assets/media/mapitanywhere.webp",
+        "/assets/media/mapitanywhere.mp4"
+      ],
+      "original_filename": "mia.gif",
+      "origin": "User-provided research media",
+      "processing": "Excerpted as a short muted H.264 loop, up to 600px wide, with a WebP poster."
+    },
+    {
+      "id": "splatam",
+      "source_page": "https://spla-tam.github.io/",
+      "credit": "Project authors",
+      "files": [
+        "/assets/media/splatam.webp",
+        "/assets/media/splatam.mp4"
+      ],
+      "original_filename": "splatam.gif",
+      "origin": "User-provided research media",
+      "processing": "Excerpted as a short muted H.264 loop, up to 600px wide, with a WebP poster."
+    },
+    {
+      "id": "foundloc",
+      "source_page": "https://anyloc.github.io/FoundLoc/",
+      "credit": "Project authors",
+      "files": [
+        "/assets/media/foundloc.webp",
+        "/assets/media/foundloc.mp4"
+      ],
+      "original_filename": "foundloc.gif",
+      "origin": "User-provided research media",
+      "processing": "Excerpted as a short muted H.264 loop, up to 600px wide, with a WebP poster."
+    },
+    {
+      "id": "anyloc",
+      "source_page": "https://anyloc.github.io/",
+      "credit": "Project authors",
+      "files": [
+        "/assets/media/anyloc.webp",
+        "/assets/media/anyloc.mp4"
+      ],
+      "original_filename": "anyloc.gif",
+      "origin": "User-provided research media",
+      "processing": "Excerpted as a short muted H.264 loop, up to 600px wide, with a WebP poster."
+    }
+  ]
+}

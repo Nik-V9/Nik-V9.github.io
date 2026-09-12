@@ -1,0 +1,627 @@
+[
+  {
+    "id": "multiperspective",
+    "short_title": "Multi-Perspective Generative Model",
+    "title": "Multi-Perspective Generative Model",
+    "team": "Meta Reality Labs",
+    "release_date": "2026-06-02",
+    "venue": "Public research demo · 2026",
+    "url": "https://ethanweber.me/#publications",
+    "summary": "A flexible generative model connects sparse images, video, text, and 360° views to synthesize scenes from new perspectives.",
+    "highlighted": true,
+    "links": [
+      [
+        "Demos",
+        "https://ethanweber.me/#publications"
+      ],
+      [
+        "Thread",
+        "https://x.com/Nik__V__/status/2061929833584533801"
+      ]
+    ],
+    "sources": [
+      "https://ethanweber.me/js/publications.js",
+      "https://x.com/Nik__V__/status/2061929833584533801"
+    ],
+    "media": {
+      "poster": "/assets/media/multiperspective.webp",
+      "video": "/assets/media/multiperspective.mp4",
+      "width": 556,
+      "height": 348,
+      "alt": "A generated indoor scene viewed through a smooth camera-controlled panorama."
+    }
+  },
+  {
+    "id": "any4d",
+    "short_title": "Any4D",
+    "title": "Any4D: Unified Feed-Forward Metric 4D Reconstruction",
+    "authors": [
+      "Jay Karhade",
+      "Nikhil Keetha",
+      "Yuchen Zhang",
+      "Tanisha Gupta",
+      "Akash Sharma",
+      "Sebastian Scherer",
+      "Deva Ramanan"
+    ],
+    "release_date": "2025-12-11",
+    "venue": "CVPR 2026",
+    "url": "https://any-4d.github.io/",
+    "summary": "A feed-forward model jointly reconstructs metric 3D geometry and dense motion across multiple frames, with flexible support for additional sensor inputs.",
+    "highlighted": true,
+    "links": [
+      [
+        "Project",
+        "https://any-4d.github.io/"
+      ],
+      [
+        "Paper",
+        "https://arxiv.org/abs/2512.10935"
+      ],
+      [
+        "Code",
+        "https://github.com/Any-4D/Any4D"
+      ],
+      [
+        "Demo",
+        "https://huggingface.co/spaces/theairlabcmu/Any4D"
+      ]
+    ],
+    "sources": [
+      "https://any-4d.github.io/",
+      "https://arxiv.org/abs/2512.10935"
+    ],
+    "media": {
+      "poster": "/assets/media/any4d.webp",
+      "video": "/assets/media/any4d.mp4",
+      "width": 600,
+      "height": 322,
+      "alt": "Dense 3D motion tracks follow a moving person across video frames."
+    }
+  },
+  {
+    "id": "raven",
+    "short_title": "RAVEN",
+    "title": "RAVEN: Resilient Aerial Navigation via Open-Set Semantic Memory and Behavior Adaptation",
+    "authors": [
+      "Seungchan Kim",
+      "Omar Alama",
+      "Dmytro Kurdydyk",
+      "John Keller",
+      "Nikhil Keetha",
+      "Wenshan Wang",
+      "Yonatan Bisk",
+      "Sebastian Scherer"
+    ],
+    "release_date": "2025-09-28",
+    "venue": "ICRA 2026",
+    "url": "https://raven-semantic.github.io/",
+    "summary": "Persistent 3D semantic memory and adaptive search behaviors enable aerial robots to find objects across large, unstructured outdoor environments.",
+    "highlighted": false,
+    "links": [
+      [
+        "Project",
+        "https://raven-semantic.github.io/"
+      ],
+      [
+        "Paper",
+        "https://arxiv.org/abs/2509.23563"
+      ],
+      [
+        "Code",
+        "https://github.com/castacks/RAVEN"
+      ],
+      [
+        "Video",
+        "https://youtu.be/slLuZv3-zIs"
+      ]
+    ],
+    "sources": [
+      "https://raven-semantic.github.io/",
+      "https://arxiv.org/abs/2509.23563"
+    ],
+    "media": {
+      "poster": "/assets/media/raven.webp",
+      "video": "/assets/media/raven.mp4",
+      "width": 600,
+      "height": 338,
+      "alt": "An aerial robot explores an outdoor environment using semantic scene memory."
+    },
+    "distinction": "Oral presentation"
+  },
+  {
+    "id": "mapanything",
+    "short_title": "MapAnything",
+    "title": "MapAnything: Universal Feed-Forward Metric 3D Reconstruction",
+    "authors": [
+      "Nikhil Keetha",
+      "Norman Müller",
+      "Johannes Schönberger",
+      "Lorenzo Porzi",
+      "Yuchen Zhang",
+      "Tobias Fischer",
+      "Arno Knapitsch",
+      "Duncan Zauss",
+      "Ethan Weber",
+      "Nelson Antunes",
+      "Jonathon Luiten",
+      "Manuel Lopez-Antequera",
+      "Samuel Rota Bulò",
+      "Christian Richardt",
+      "Deva Ramanan",
+      "Sebastian Scherer",
+      "Peter Kontschieder"
+    ],
+    "release_date": "2025-09-16",
+    "venue": "3DV 2026",
+    "url": "https://map-anything.github.io/",
+    "summary": "A unified transformer reconstructs metric 3D scenes from images and optional camera poses, intrinsics, or depth, bringing diverse geometric tasks into one model.",
+    "highlighted": true,
+    "links": [
+      [
+        "Project",
+        "https://map-anything.github.io/"
+      ],
+      [
+        "Paper",
+        "https://arxiv.org/abs/2509.13414"
+      ],
+      [
+        "Code",
+        "https://github.com/facebookresearch/map-anything"
+      ],
+      [
+        "Model",
+        "https://huggingface.co/facebook/map-anything"
+      ],
+      [
+        "Demo",
+        "https://huggingface.co/spaces/facebook/map-anything"
+      ]
+    ],
+    "sources": [
+      "https://map-anything.github.io/",
+      "https://arxiv.org/abs/2509.13414"
+    ],
+    "media": {
+      "poster": "/assets/media/mapanything.webp",
+      "video": "/assets/media/mapanything.mp4",
+      "width": 600,
+      "height": 338,
+      "alt": "Images and reconstructed 3D geometry of an outdoor scene."
+    }
+  },
+  {
+    "id": "ufm",
+    "short_title": "UFM",
+    "title": "UFM: A Simple Path towards Unified Dense Correspondence with Flow",
+    "authors": [
+      "Yuchen Zhang",
+      "Nikhil Keetha",
+      "Chenwei Lyu",
+      "Bhuvan Jhamb",
+      "Yutian Chen",
+      "Yuheng Qiu",
+      "Jay Karhade",
+      "Shreyas Jha",
+      "Yaoyu Hu",
+      "Deva Ramanan",
+      "Sebastian Scherer",
+      "Wenshan Wang"
+    ],
+    "release_date": "2025-06-10",
+    "venue": "NeurIPS 2025",
+    "url": "https://uniflowmatch.github.io/",
+    "summary": "One transformer unifies optical flow and wide-baseline matching, learning general-purpose dense correspondence from their combined training data.",
+    "highlighted": true,
+    "links": [
+      [
+        "Project",
+        "https://uniflowmatch.github.io/"
+      ],
+      [
+        "Paper",
+        "https://arxiv.org/abs/2506.09278"
+      ],
+      [
+        "Code",
+        "https://github.com/UniFlowMatch/UFM"
+      ],
+      [
+        "Model",
+        "https://huggingface.co/infinity1096/UFM-Base"
+      ],
+      [
+        "Demo",
+        "https://huggingface.co/spaces/infinity1096/UFM"
+      ]
+    ],
+    "sources": [
+      "https://uniflowmatch.github.io/",
+      "https://arxiv.org/abs/2506.09278"
+    ],
+    "media": {
+      "poster": "/assets/media/ufm.webp",
+      "video": "/assets/media/ufm.mp4",
+      "width": 600,
+      "height": 600,
+      "alt": "Dense image correspondences track matching points across changing viewpoints."
+    }
+  },
+  {
+    "id": "visafe",
+    "short_title": "ViSafe",
+    "title": "Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid",
+    "authors": [
+      "Parv Kapoor",
+      "Ian Higgins",
+      "Nikhil Keetha",
+      "Jay Patrikar",
+      "Brady Moon",
+      "Zelin Ye",
+      "Yao He",
+      "Ivan Cisneros",
+      "Yaoyu Hu",
+      "Changliu Liu",
+      "Eunsuk Kang",
+      "Sebastian Scherer"
+    ],
+    "release_date": "2025-05-06",
+    "venue": "RSS 2025 · Demonstrations",
+    "url": "https://theairlab.org/visafe/",
+    "summary": "A vision-only detect-and-avoid system integrates perception and safety-aware control, demonstrated in real flight tests with closure rates up to 144 km/h.",
+    "highlighted": false,
+    "links": [
+      [
+        "Project",
+        "https://theairlab.org/visafe/"
+      ],
+      [
+        "Paper",
+        "https://arxiv.org/abs/2505.03694"
+      ],
+      [
+        "Video",
+        "https://youtu.be/oQxh6X9sDtw"
+      ]
+    ],
+    "sources": [
+      "https://theairlab.org/visafe/",
+      "https://arxiv.org/abs/2505.03694"
+    ],
+    "media": {
+      "poster": "/assets/media/visafe.webp",
+      "video": "/assets/media/visafe.mp4",
+      "width": 600,
+      "height": 338,
+      "alt": "Aircraft flight tests demonstrate vision-based detection and collision avoidance."
+    },
+    "equal_contribution": [
+      "Parv Kapoor",
+      "Ian Higgins",
+      "Nikhil Keetha",
+      "Jay Patrikar"
+    ]
+  },
+  {
+    "id": "rayfronts",
+    "short_title": "RayFronts",
+    "title": "RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration",
+    "authors": [
+      "Omar Alama",
+      "Avigyan Bhattacharya",
+      "Haoyang He",
+      "Seungchan Kim",
+      "Yuheng Qiu",
+      "Wenshan Wang",
+      "Cherie Ho",
+      "Nikhil Keetha",
+      "Sebastian Scherer"
+    ],
+    "release_date": "2025-04-09",
+    "venue": "IROS 2025",
+    "url": "https://rayfronts.github.io/",
+    "summary": "Open-set semantic mapping connects nearby 3D voxels with distant ray frontiers, letting robots reason about and explore beyond their depth-sensing range.",
+    "highlighted": false,
+    "links": [
+      [
+        "Project",
+        "https://rayfronts.github.io/"
+      ],
+      [
+        "Paper",
+        "https://arxiv.org/abs/2504.06994"
+      ],
+      [
+        "Code",
+        "https://github.com/RayFronts/RayFronts"
+      ]
+    ],
+    "sources": [
+      "https://rayfronts.github.io/",
+      "https://arxiv.org/abs/2504.06994"
+    ],
+    "media": {
+      "poster": "/assets/media/rayfronts.webp",
+      "video": "/assets/media/rayfronts.mp4",
+      "width": 600,
+      "height": 338,
+      "alt": "Semantic ray frontiers and 3D mapping in an outdoor environment."
+    }
+  },
+  {
+    "id": "flowr",
+    "short_title": "FlowR",
+    "title": "FlowR: Flowing from Sparse to Dense 3D Reconstructions",
+    "authors": [
+      "Tobias Fischer",
+      "Samuel Rota Bulò",
+      "Yung-Hsu Yang",
+      "Nikhil Keetha",
+      "Lorenzo Porzi",
+      "Norman Müller",
+      "Katja Schwarz",
+      "Jonathon Luiten",
+      "Marc Pollefeys",
+      "Peter Kontschieder"
+    ],
+    "release_date": "2025-04-02",
+    "venue": "ICCV 2025",
+    "url": "https://tobiasfshr.github.io/pub/flowr/",
+    "summary": "Multi-view flow matching generates consistent additional views from sparse reconstructions, improving scene coverage and novel-view quality.",
+    "highlighted": false,
+    "links": [
+      [
+        "Project",
+        "https://tobiasfshr.github.io/pub/flowr/"
+      ],
+      [
+        "Paper",
+        "https://arxiv.org/abs/2504.01647"
+      ]
+    ],
+    "sources": [
+      "https://tobiasfshr.github.io/pub/flowr/",
+      "https://arxiv.org/abs/2504.01647"
+    ],
+    "media": {
+      "poster": "/assets/media/flowr.webp",
+      "video": "/assets/media/flowr.mp4",
+      "width": 600,
+      "height": 338,
+      "alt": "A reconstruction of a building becomes more complete as new views are generated."
+    },
+    "distinction": "Highlight"
+  },
+  {
+    "id": "hyperscape",
+    "short_title": "Meta Hyperscape",
+    "title": "Meta Hyperscape",
+    "team": "Meta Reality Labs",
+    "release_date": "2024-09-25",
+    "venue": "Public demo · 2024 / Capture launch · 2025",
+    "url": "https://www.meta.com/blog/hyperscape-worlds-sharing-hangout-friends-metaverse-digital-replicas/",
+    "summary": "Photorealistic reconstruction turns captured physical spaces into immersive digital replicas that people can explore and share in VR.",
+    "highlighted": false,
+    "links": [
+      [
+        "Project",
+        "https://www.meta.com/blog/hyperscape-worlds-sharing-hangout-friends-metaverse-digital-replicas/"
+      ],
+      [
+        "Demo",
+        "https://x.com/JonathonLuiten/status/1968474776793403734"
+      ]
+    ],
+    "sources": [
+      "https://about.fb.com/ja/news/2024/09/connect-2024-keynote-recap-quest-3s-llama-3-2-ai-wearables-mixed-reality/"
+    ],
+    "media": {
+      "poster": "/assets/media/hyperscape.webp",
+      "video": "/assets/media/hyperscape.mp4",
+      "width": 532,
+      "height": 300,
+      "alt": "A point cloud resolves into a photorealistic studio in Meta Hyperscape. Footage: Meta."
+    }
+  },
+  {
+    "id": "mapitanywhere",
+    "short_title": "Map It Anywhere",
+    "title": "Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using Large-scale Public Data",
+    "authors": [
+      "Cherie Ho",
+      "Jiaye Zou",
+      "Omar Alama",
+      "Sai Mitheran Jagadesh Kumar",
+      "Benjamin Chiang",
+      "Taneesh Gupta",
+      "Chen Wang",
+      "Nikhil Keetha",
+      "Katia Sycara",
+      "Sebastian Scherer"
+    ],
+    "release_date": "2024-07-11",
+    "venue": "NeurIPS 2024",
+    "url": "https://mapitanywhere.github.io/",
+    "summary": "A data engine pairs street-level imagery with public maps at scale, enabling more generalizable bird’s-eye-view mapping across diverse environments.",
+    "highlighted": false,
+    "links": [
+      [
+        "Project",
+        "https://mapitanywhere.github.io/"
+      ],
+      [
+        "Paper",
+        "https://arxiv.org/abs/2407.08726"
+      ],
+      [
+        "Code",
+        "https://github.com/MapItAnywhere/MapItAnywhere"
+      ]
+    ],
+    "sources": [
+      "https://mapitanywhere.github.io/",
+      "https://arxiv.org/abs/2407.08726"
+    ],
+    "media": {
+      "poster": "/assets/media/mapitanywhere.webp",
+      "video": "/assets/media/mapitanywhere.mp4",
+      "width": 600,
+      "height": 338,
+      "alt": "Street-level images paired with semantic bird’s-eye-view maps."
+    },
+    "equal_contribution": [
+      "Cherie Ho",
+      "Jiaye Zou",
+      "Omar Alama"
+    ]
+  },
+  {
+    "id": "splatam",
+    "short_title": "SplaTAM",
+    "title": "SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM",
+    "authors": [
+      "Nikhil Keetha",
+      "Jay Karhade",
+      "Krishna Murthy Jatavallabhula",
+      "Gengshan Yang",
+      "Sebastian Scherer",
+      "Deva Ramanan",
+      "Jonathon Luiten"
+    ],
+    "release_date": "2023-12-04",
+    "venue": "CVPR 2024",
+    "url": "https://spla-tam.github.io/",
+    "summary": "Explicit 3D Gaussians enable online tracking and dense mapping from a single unposed RGB-D camera, with high-quality scene reconstruction and rendering.",
+    "highlighted": true,
+    "links": [
+      [
+        "Project",
+        "https://spla-tam.github.io/"
+      ],
+      [
+        "Paper",
+        "https://arxiv.org/abs/2312.02126"
+      ],
+      [
+        "Code",
+        "https://github.com/spla-tam/SplaTAM"
+      ],
+      [
+        "Video",
+        "https://youtu.be/jWLI-OFp3qU"
+      ]
+    ],
+    "sources": [
+      "https://spla-tam.github.io/",
+      "https://arxiv.org/abs/2312.02126"
+    ],
+    "media": {
+      "poster": "/assets/media/splatam.webp",
+      "video": "/assets/media/splatam.mp4",
+      "width": 600,
+      "height": 340,
+      "alt": "Camera tracking and a 3D Gaussian reconstruction of an indoor scene."
+    }
+  },
+  {
+    "id": "foundloc",
+    "short_title": "FoundLoc",
+    "title": "FoundLoc: Vision-based Onboard Aerial Localization in the Wild",
+    "authors": [
+      "Yao He",
+      "Ivan Cisneros",
+      "Nikhil Keetha",
+      "Jay Patrikar",
+      "Zelin Ye",
+      "Ian Higgins",
+      "Yaoyu Hu",
+      "Parv Kapoor",
+      "Sebastian Scherer"
+    ],
+    "release_date": "2023-10-25",
+    "venue": "arXiv 2023",
+    "url": "https://anyloc.github.io/FoundLoc/",
+    "summary": "Foundation-model place recognition and visual-inertial odometry enable onboard aerial localization against satellite imagery, without GPS or a known starting pose.",
+    "highlighted": false,
+    "links": [
+      [
+        "Project",
+        "https://anyloc.github.io/FoundLoc/"
+      ],
+      [
+        "Paper",
+        "https://arxiv.org/abs/2310.16299"
+      ]
+    ],
+    "sources": [
+      "https://anyloc.github.io/FoundLoc/",
+      "https://arxiv.org/abs/2310.16299"
+    ],
+    "media": {
+      "poster": "/assets/media/foundloc.webp",
+      "video": "/assets/media/foundloc.mp4",
+      "width": 480,
+      "height": 270,
+      "alt": "An aerial view is localized within a larger satellite map."
+    },
+    "equal_contribution": [
+      "Yao He",
+      "Ivan Cisneros"
+    ]
+  },
+  {
+    "id": "anyloc",
+    "short_title": "AnyLoc",
+    "title": "AnyLoc: Towards Universal Visual Place Recognition",
+    "authors": [
+      "Nikhil Keetha",
+      "Avneesh Mishra",
+      "Jay Karhade",
+      "Krishna Murthy Jatavallabhula",
+      "Sebastian Scherer",
+      "Madhava Krishna",
+      "Sourav Garg"
+    ],
+    "release_date": "2023-08-01",
+    "venue": "IEEE RA-L 2024 · ICRA 2024",
+    "url": "https://anyloc.github.io/",
+    "summary": "Off-the-shelf foundation-model features and unsupervised aggregation enable visual place recognition across environments, without task-specific training.",
+    "highlighted": true,
+    "links": [
+      [
+        "Project",
+        "https://anyloc.github.io/"
+      ],
+      [
+        "Paper",
+        "https://arxiv.org/abs/2308.00688"
+      ],
+      [
+        "Code",
+        "https://github.com/AnyLoc/AnyLoc"
+      ],
+      [
+        "Video",
+        "https://youtu.be/ITo8rMInatk"
+      ]
+    ],
+    "sources": [
+      "https://anyloc.github.io/",
+      "https://arxiv.org/abs/2308.00688",
+      "https://ieeexplore.ieee.org/document/10361537/"
+    ],
+    "media": {
+      "poster": "/assets/media/anyloc.webp",
+      "video": "/assets/media/anyloc.mp4",
+      "width": 600,
+      "height": 338,
+      "alt": "Visual place recognition across diverse environments and viewing conditions."
+    },
+    "equal_contribution": [
+      "Nikhil Keetha",
+      "Avneesh Mishra",
+      "Jay Karhade"
+    ]
+  }
+]

@@ -1,0 +1,272 @@
+{
+  "news": [
+    {
+      "date": "2020-08-14",
+      "path": "/news/2020-08-14-qut/",
+      "html": "Interning at the <a href=\"https://research.qut.edu.au/qcr/\">QUT Centre for Robotics</a> mentored by <a href=\"https://staff.qut.edu.au/staff/s.garg\">Dr. Sourav Garg</a> and <a href=\"https://www.qut.edu.au/research/michael-milford\">Prof. Michael Milford</a>"
+    },
+    {
+      "date": "2020-11-01",
+      "path": "/news/2020-11-01-accv/",
+      "html": "Received <a href=\"https://accv2020.github.io/attending/diversity-grant/\">ACCV 2020 Diversity Grant</a>"
+    },
+    {
+      "date": "2021-01-01",
+      "path": "/news/2021-01-01-mila/",
+      "html": "Winter 2021 Intern at <a href=\"https://montrealrobotics.ca/\">REAL</a> Mila mentored by <a href=\"https://krrish94.github.io/\">Krishna Murthy</a> and <a href=\"https://liampaull.ca/\">Prof. Liam Paull</a>"
+    },
+    {
+      "date": "2021-03-18",
+      "path": "/news/2021-03-18-riss/",
+      "html": "Selected as a <a href=\"https://riss.ri.cmu.edu/\">CMU Robotics Institute Summer Scholar</a>!"
+    },
+    {
+      "date": "2021-03-25",
+      "path": "/news/2021-03-25-ral/",
+      "html": "Reviewed for IEEE Robotics and Automation Letters (RA-L) & IROS 2021"
+    },
+    {
+      "date": "2021-04-01",
+      "path": "/news/2021-04-01-airlab/",
+      "html": "Interning at the <a href=\"https://theairlab.org/\">AirLab</a> CMU mentored by <a href=\"https://chenwang.site/\">Dr. Chen Wang</a> and <a href=\"https://theairlab.org/team/sebastian/\">Prof. Sebastian Scherer</a>"
+    },
+    {
+      "date": "2021-05-01",
+      "path": "/news/2021-05-01-tss/",
+      "html": "Organizing the <a href=\"https://theairlab.org/tartanslamseries/\">Tartan SLAM Series</a> at CMU Robotics Institute"
+    },
+    {
+      "date": "2021-06-14",
+      "path": "/news/2021-06-14-iros/",
+      "html": "<a href=\"https://ieeexplore.ieee.org/abstract/document/9484750\">HEAPUtil</a> accepted to IEEE Robotics and Automation Letters (RA-L) and IROS 2021!"
+    },
+    {
+      "date": "2021-08-10",
+      "path": "/news/2021-08-10-riss/",
+      "html": "Presented <a href=\"https://youtu.be/pgviYqtlbQk?t=2243\">RISS Summer Experience</a> as a part of the 2021 RISS Community Seminar Series"
+    },
+    {
+      "date": "2021-09-27",
+      "path": "/news/2021-09-27-iros/",
+      "html": "Presented <a href=\"https://youtu.be/CbAkVsk0KYE\">HEAPUtil</a> at IROS 2021"
+    },
+    {
+      "date": "2021-10-10",
+      "path": "/news/2021-10-10-ral/",
+      "html": "Reviewed for IEEE RA-L & ICRA 2022"
+    },
+    {
+      "date": "2022-03-04",
+      "path": "/news/2022-03-04-cvpr/",
+      "html": "<a href=\"https://theairlab.org/airobject/\">AirObject</a> accepted to CVPR 2022!"
+    },
+    {
+      "date": "2022-03-19",
+      "path": "/news/2022-03-19-cmu/",
+      "html": "Accepted Fully-funded MS in Robotics offer from CMU!"
+    },
+    {
+      "date": "2022-03-23",
+      "path": "/news/2022-03-23-iros/",
+      "html": "Reviewed for IEEE IROS 2022"
+    },
+    {
+      "date": "2022-04-11",
+      "path": "/news/2022-04-11-eccv/",
+      "html": "Reviewed for ECCV 2022"
+    },
+    {
+      "date": "2022-05-30",
+      "path": "/news/2022-05-30-btech/",
+      "html": "Graduated B.Tech with Distinction!"
+    },
+    {
+      "date": "2022-06-01",
+      "path": "/news/2022-06-01-rb/",
+      "html": "Organized the <a href=\"https://riss.ri.cmu.edu/robolaunch/\">RoboLaunch Initiative</a> at CMU"
+    },
+    {
+      "date": "2022-09-01",
+      "path": "/news/2022-09-01-rb/",
+      "html": "<a href=\"https://riss.ri.cmu.edu/robolaunch-2022/\">RoboLaunch</a> reached 13,000 students & viewers worldwide!"
+    },
+    {
+      "date": "2022-10-15",
+      "path": "/news/2022-10-15-icra/",
+      "html": "Reviewed for IEEE ICRA 2023"
+    },
+    {
+      "date": "2022-11-01",
+      "path": "/news/2022-11-01-cvpr/",
+      "html": "Reviewing for CVPR 2023"
+    },
+    {
+      "date": "2023-02-02",
+      "path": "/news/2023-02-02-riphd/",
+      "html": "Received CMU RI PhD offer for Fall 2023!"
+    },
+    {
+      "date": "2023-02-14",
+      "path": "/news/2023-02-14-cf/",
+      "html": "<a href=\"https://concept-fusion.github.io/\">ConceptFusion</a> is public!"
+    },
+    {
+      "date": "2023-03-14",
+      "path": "/news/2023-03-14-tps/",
+      "html": "<a href=\"https://theairlab.org/tartanplanningseries/\">Tartan Planning Series</a> is now live!"
+    },
+    {
+      "date": "2023-08-01",
+      "path": "/news/2023-08-01/",
+      "html": "<a href=\"https://anyloc.github.io/\">AnyLoc</a> is live!"
+    },
+    {
+      "date": "2023-09-01",
+      "path": "/news/2023-09-01/",
+      "html": "Collaborating with <a href=\"https://www.cs.cmu.edu/~deva/\">Deva Ramanan</a> on dynamic reconstruction & tracking in the wild!"
+    },
+    {
+      "date": "2023-11-01",
+      "path": "/news/2023-11-01/",
+      "html": "We show <a href=\"https://anyloc.github.io/FoundLoc/\">GPS-denied localization on a drone and heli</a> in the wild!"
+    },
+    {
+      "date": "2023-12-01",
+      "path": "/news/2023-12-01/",
+      "html": "<a href=\"https://spla-tam.github.io/\">SplaTAM</a> is now live!"
+    },
+    {
+      "date": "2023-12-14",
+      "path": "/news/2023-12-14/",
+      "html": "Our <a href=\"https://robotics-fm-survey.github.io/\">Survey on Foundation Models for Robotics</a> is now live!"
+    },
+    {
+      "date": "2024-02-01",
+      "path": "/news/2024-02-01/",
+      "html": "Defended my <a href=\"https://www.linkedin.com/posts/nik-v9_thrilled-to-share-that-i-have-defended-my-activity-7168723132579598336-2AWO?utm_source=share&utm_medium=member_desktop\">Master's Thesis</a> at CMU!"
+    },
+    {
+      "date": "2024-05-20",
+      "path": "/news/2024-05-20/",
+      "html": "Research Scientist Intern at Meta Zurich working with <a href=\"https://www.linkedin.com/in/peter-kontschieder-2a6410134/?originalSubdomain=ch\">Peter Kontschieder</a>!"
+    },
+    {
+      "date": "2024-07-19",
+      "path": "/news/2024-07-19/",
+      "html": "<a href=\"https://mapitanywhere.github.io/\">Map It Anywhere (MIA)</a> is now live!"
+    },
+    {
+      "date": "2024-09-01",
+      "path": "/news/2024-09-01/",
+      "html": "Continuing at Meta Pittsburgh as a Visiting Researcher!"
+    }
+  ],
+  "redirects": [
+    {
+      "path": "/blog/2021/heaputil/",
+      "url": "https://www.linkedin.com/posts/nik-v9_keypoints-localization-robots-activity-6818809301466005505-AKG0?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "title": "HEAPUtil - IEEE RA-L & IROS 2021"
+    },
+    {
+      "path": "/blog/2021/riss/",
+      "url": "https://www.linkedin.com/posts/nik-v9_robotics-research-opportunities-activity-6866762965165621248-vV0r?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "title": "Insights into the CMU RISS program"
+    },
+    {
+      "path": "/blog/2022/airobject/",
+      "url": "https://theairlab.org/airobject/",
+      "title": "AirObject - CVPR 2022"
+    },
+    {
+      "path": "/blog/2022/grad/",
+      "url": "https://www.linkedin.com/posts/nik-v9_gradschool-undergraduateresearch-cmu-activity-6910902957601411072-q2zW?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "title": "Grad School Acceptance & Resources"
+    },
+    {
+      "path": "/blog/2022/robolaunch/",
+      "url": "https://www.linkedin.com/posts/nik-v9_ai-robotics-stem-activity-6935634935638597632-6K7M?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "title": "Ever wondered what Robotics is? - RoboLaunch"
+    },
+    {
+      "path": "/blog/2022/rb/",
+      "url": "https://riss.ri.cmu.edu/robolaunch-2022/",
+      "title": "RoboLaunch reaches over 13,000 students & viewers worldwide!"
+    },
+    {
+      "path": "/blog/2023/anyloc/",
+      "url": "https://twitter.com/Nik__V__/status/1686814252026286080?s=20",
+      "title": "Towards Anywhere, Anytime & Anyview Localization"
+    },
+    {
+      "path": "/blog/2023/splatam/",
+      "url": "https://x.com/Nik__V__/status/1731840557553496410?s=20",
+      "title": "Dense RGB-D SLAM with Splatting"
+    },
+    {
+      "path": "/projects/gradslam_rgbd/",
+      "url": "https://github.com/Nik-V9/GradSLAM-RGB-D-Completion",
+      "title": "GradSLAM RGB-D Completion"
+    },
+    {
+      "path": "/projects/ibm_hackathon/",
+      "url": "https://github.com/Nik-V9/SBSPS-Challenge-2700-Twitter-Sentiment-Analysis-Extraction-for-COVID-19",
+      "title": "COVID-19 Twitter Sentiment Analysis India (IBM Hackathon 2020)"
+    },
+    {
+      "path": "/projects/kaggle_twitter/",
+      "url": "https://www.kaggle.com/competitions/tweet-sentiment-extraction/leaderboard",
+      "title": "Twitter Sentiment Extraction (Kaggle Competition)"
+    },
+    {
+      "path": "/projects/reddit_flair/",
+      "url": "https://github.com/Nik-V9/Reddit-Flair-Detector",
+      "title": "Reddit Flair Predictor"
+    },
+    {
+      "path": "/service/robolaunch/",
+      "url": "https://riss.ri.cmu.edu/robolaunch/",
+      "title": "RoboLaunch"
+    },
+    {
+      "path": "/service/tps/",
+      "url": "https://theairlab.org/tartanplanningseries/",
+      "title": "Tartan Planning Series"
+    },
+    {
+      "path": "/service/tss/",
+      "url": "https://theairlab.org/tartanslamseries/",
+      "title": "Tartan SLAM Series"
+    },
+    {
+      "path": "/service/tss_fall/",
+      "url": "https://theairlab.org/tartanslamseries2/",
+      "title": "Tartan SLAM Series Fall Edition"
+    }
+  ],
+  "projects": [
+    {
+      "title": "GradSLAM RGB-D Completion",
+      "description": "Leveraged Multi-view gradients from GradSLAM to optimize RGB-D Images.",
+      "url": "https://github.com/Nik-V9/GradSLAM-RGB-D-Completion",
+      "order": 1
+    },
+    {
+      "title": "COVID-19 Twitter Sentiment Analysis India (IBM Hackathon 2020)",
+      "description": "Developed a Visualization Dashboard for COVID-19 Twitter Sentiment Analysis & Extraction using a modified Roberta & Roberta-CNN model",
+      "url": "https://github.com/Nik-V9/SBSPS-Challenge-2700-Twitter-Sentiment-Analysis-Extraction-for-COVID-19",
+      "order": 2
+    },
+    {
+      "title": "Twitter Sentiment Extraction (Kaggle Competition)",
+      "description": "Developed a modified Roberta base model with CNN head for Twitter Sentiment Extraction & Implemented Teacher Student learning and Ensembling for improvement of Model Performance. Placed 58/2,227 (Top 3%) - Silver Medal",
+      "url": "https://www.kaggle.com/competitions/tweet-sentiment-extraction/leaderboard",
+      "order": 3
+    },
+    {
+      "title": "Reddit Flair Predictor",
+      "description": "Developed an XLNet language model based on Transfer Learning & a Web Application based on Flask API for Reddit Flair Classification",
+      "url": "https://github.com/Nik-V9/Reddit-Flair-Detector",
+      "order": 4
+    }
+  ]
+}

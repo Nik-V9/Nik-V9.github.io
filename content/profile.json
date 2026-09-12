@@ -1,0 +1,19 @@
+{
+  "name": "Nikhil Keetha",
+  "description": "Nikhil Keetha — final-year Ph.D. candidate at Carnegie Mellon University and Visiting Researcher at Meta. Research in generalizable spatial perception, 3D/4D reconstruction, and representation learning.",
+  "scholar": "https://scholar.google.com/citations?user=ZTm5H50AAAAJ&hl=en",
+  "bio_html": [
+    "I'm a final-year Ph.D. candidate at <a href=\"https://www.ri.cmu.edu/\">Carnegie Mellon University</a>, advised by <a href=\"https://theairlab.org/team/sebastian/\">Sebastian Scherer</a> and <a href=\"https://www.cs.cmu.edu/~deva/\">Deva Ramanan</a>. I'm also a Visiting Researcher at <a href=\"https://www.meta.com/\">Meta</a>, supervised by <a href=\"https://www.linkedin.com/in/peter-kontschieder-2a6410134/\">Peter Kontschieder</a>.",
+    "I work on <strong>generalizable spatial perception</strong>: learning representations that let embodied systems perceive, understand, and reason about the physical world. My research spans visual correspondence, 3D/4D reconstruction, and spatial memory, with applications in field robotics, augmented reality, and human–computer interaction.",
+    "I received my M.S. in Robotics from CMU and B.Tech. in Engineering Physics from <a href=\"https://www.iitism.ac.in/\">IIT (ISM) Dhanbad</a>. Previously, I interned at <a href=\"https://mila.quebec/en/\">Mila</a> and the <a href=\"https://research.qut.edu.au/qcr/\">QUT Centre for Robotics</a>, and was a <a href=\"https://riss.ri.cmu.edu/\">CMU Robotics Institute Summer Scholar</a>."
+  ],
+  "personal": "Outside research, I enjoy movies, cooking, music, anime, and gaming.",
+  "socials": [
+    ["Email", "mailto:nkeetha@andrew.cmu.edu"],
+    ["CV", "/assets/pdf/Nikhil_CV.pdf"],
+    ["Google Scholar", "https://scholar.google.com/citations?user=ZTm5H50AAAAJ&hl=en"],
+    ["GitHub", "https://github.com/Nik-V9"],
+    ["LinkedIn", "https://www.linkedin.com/in/nik-v9/"],
+    ["X", "https://x.com/Nik__V__"]
+  ]
+}

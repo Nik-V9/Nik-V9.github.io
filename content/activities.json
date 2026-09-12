@@ -1,0 +1,280 @@
+{
+  "awards": [
+    {
+      "date": "2026",
+      "title": "Outstanding Reviewer",
+      "detail": "ECCV 2026",
+      "url": "https://eccv.ecva.net/Conferences/2026/ProgramCommittee"
+    },
+    {
+      "date": "2026",
+      "title": "Outstanding Reviewer",
+      "detail": "CVPR 2026",
+      "url": "https://cvpr.thecvf.com/Conferences/2026/ProgramCommittee"
+    },
+    {
+      "date": "2025–2027",
+      "title": "Meta Academic Research Grants",
+      "detail": "Thesis research at CMU supported by two Meta Academic Research Grants ($400K each)."
+    },
+    {
+      "date": "2025",
+      "title": "Outstanding Reviewer",
+      "detail": "ICCV 2025",
+      "url": "https://iccv.thecvf.com/Conferences/2025/ProgramCommittee"
+    },
+    {
+      "date": "2025",
+      "title": "Outstanding Reviewer",
+      "detail": "CVPR 2025",
+      "url": "https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee"
+    },
+    {
+      "date": "2021",
+      "title": "Robotics Institute Summer Scholar",
+      "detail": "Carnegie Mellon University",
+      "url": "https://riss.ri.cmu.edu/"
+    },
+    {
+      "date": "2020",
+      "title": "Diversity Grant",
+      "detail": "ACCV 2020",
+      "url": "https://accv2020.github.io/attending/diversity-grant/"
+    }
+  ],
+  "talks": [
+    {
+      "date": "Jun 2026",
+      "title": "Image Matching: Local Features & Beyond",
+      "detail": "Invited workshop talk · CVPR 2026",
+      "url": "https://image-matching-workshop.github.io/"
+    },
+    {
+      "date": "Nov 2025",
+      "title": "Learning 3D from Multi-view",
+      "detail": "Guest lecture · CMU 16-825, Learning for 3D Vision",
+      "url": "https://learning3d.github.io/fall25/schedule.html",
+      "links": [
+        [
+          "Slides",
+          "https://www.dropbox.com/scl/fi/gudilv4faf96syyu16pej/L24_Multiview_3D.pdf?rlkey=x04wss28f360tqg1k68s4bijf&dl=0"
+        ]
+      ]
+    },
+    {
+      "date": "Fall 2025",
+      "title": "Advanced Computer Vision",
+      "detail": "Guest lecture · CMU 16-820",
+      "url": "https://sites.google.com/andrew.cmu.edu/16-820-spring-2025/schedule"
+    },
+    {
+      "date": "Fall 2025",
+      "title": "MapAnything",
+      "detail": "Invited research talks · Amazon FAR, Meta, and Field AI",
+      "links": [
+        [
+          "Project",
+          "https://map-anything.github.io/"
+        ]
+      ]
+    },
+    {
+      "date": "Fall 2024",
+      "title": "SplaTAM",
+      "detail": "Invited webinar · Augmented Reality for Enterprise Alliance (AREA)",
+      "links": [
+        [
+          "Recording",
+          "https://www.brighttalk.com/webcast/19349/625439"
+        ]
+      ]
+    },
+    {
+      "date": "Spring 2024",
+      "title": "SplaTAM",
+      "detail": "Invited research talks · MIT and Voxel AI",
+      "links": [
+        [
+          "Project",
+          "https://spla-tam.github.io/"
+        ]
+      ]
+    }
+  ],
+  "press": [
+    {
+      "project": "MapAnything",
+      "items": [
+        {
+          "title": "New Model Helps Robots See in 3D",
+          "url": "https://www.ri.cmu.edu/new-model-helps-robots-see-in-3d/",
+          "meta": "Carnegie Mellon Robotics Institute · October 2025 · Research feature"
+        },
+        {
+          "title": "The End of VGGT? Why MapAnything Wins in the Real World",
+          "url": "https://worv.ghost.io/the-end-of-vggt-why-mapanything-wins-in-the-real-world/",
+          "meta": "World of Robot Vision · Technical article"
+        }
+      ]
+    },
+    {
+      "project": "Meta Hyperscape",
+      "items": [
+        {
+          "title": "Share Your Space: Invite Friends to Hang Out in Your Own Hyperscape Worlds",
+          "url": "https://www.meta.com/blog/hyperscape-worlds-sharing-hangout-friends-metaverse-digital-replicas/",
+          "meta": "Meta Quest Blog · November 2025 · Product feature"
+        },
+        {
+          "title": "Hyperscape Capture",
+          "url": "https://x.com/JonathonLuiten/status/1968474776793403734",
+          "meta": "Jonathon Luiten · September 2025 · Public demo"
+        },
+        {
+          "title": "Introducing Hyperscape",
+          "url": "https://x.com/JonathonLuiten/status/1838993539738255460",
+          "meta": "Jonathon Luiten · September 2024 · Public demo"
+        }
+      ]
+    },
+    {
+      "project": "ViSafe",
+      "items": [
+        {
+          "title": "AI-Powered Vision System Helps Drones Navigate Safely",
+          "url": "https://www.cmu.edu/news/stories/archives/2025/july/ai-powered-vision-system-helps-drones-navigate-safely",
+          "meta": "Carnegie Mellon University · July 2025 · Research feature"
+        },
+        {
+          "title": "ViSafe: Smarter Vision for Safer Skies",
+          "url": "https://www.ri.cmu.edu/visafe-smarter-vision-for-safer-skies/",
+          "meta": "Carnegie Mellon Robotics Institute · June 2025 · Research feature"
+        },
+        {
+          "title": "Vision-based aircraft collision avoidance",
+          "url": "https://www.popsci.com/technology/artificial-intelligence-fly-planes/",
+          "meta": "Popular Science · Press coverage"
+        }
+      ]
+    },
+    {
+      "project": "UFM",
+      "items": [
+        {
+          "title": "Unified dense correspondence in action",
+          "url": "https://x.com/bilawalsidhu/status/1932975764992868427",
+          "meta": "Bilawal Sidhu · June 2025 · Community feature"
+        },
+        {
+          "title": "UFM video feature",
+          "url": "https://www.instagram.com/reel/DKz06cqRGEi/",
+          "meta": "Instagram · Video"
+        }
+      ]
+    },
+    {
+      "project": "Map It Anywhere",
+      "items": [
+        {
+          "title": "Map It Anywhere with Voxel51",
+          "url": "https://youtu.be/XRHEFbCWo48",
+          "meta": "Voxel51 · Video feature"
+        }
+      ]
+    },
+    {
+      "project": "SplaTAM",
+      "items": [
+        {
+          "title": "SplaTAM: SLAM with Speed, Precision, and Gaussian Splats",
+          "url": "https://radiancefields.com/splatam-slam-with-speed-precision-and-gaussian-splats",
+          "meta": "Radiance Fields · Technical article"
+        },
+        {
+          "title": "SplaTAM at CMU",
+          "url": "https://www.cmu.edu/xrtc/news/2024/april/splatam.html",
+          "meta": "CMU Extended Reality Technology Center · April 2024 · Research feature"
+        }
+      ]
+    }
+  ],
+  "service": [
+    {
+      "title": "Reviewing",
+      "items_html": [
+        "Conferences and workshops: CVPR, ICCV, ECCV, NeurIPS, ICRA, IROS, 3DV, and the Image Matching Workshop (IMW).",
+        "Journal: IEEE Robotics and Automation Letters (RA-L)."
+      ]
+    },
+    {
+      "title": "Teaching",
+      "items_html": [
+        "Teaching Assistant, <a href=\"https://visual-learning.cs.cmu.edu/s25/index.html\">16-824: Visual Learning and Recognition</a>, CMU · Spring 2025.",
+        "Teaching Assistant, <a href=\"https://16820advancedcv.github.io/\">16-820: Advanced Computer Vision</a>, CMU · Fall 2024."
+      ]
+    },
+    {
+      "title": "Admissions",
+      "items_html": [
+        "CMU Robotics Institute Graduate Admissions Committee.",
+        "CMU Robotics Institute Summer Scholars (RISS) Admissions Committee."
+      ]
+    },
+    {
+      "title": "Mentorship",
+      "items_html": [
+        "Mentoring researchers at CMU and research interns at Meta."
+      ]
+    }
+  ],
+  "outreach": [
+    {
+      "title": "RoboLaunch",
+      "description": "Co-organized a robotics outreach initiative broadening participation and making robotics more accessible. The 2022 series reached over 13,000 students and viewers worldwide.",
+      "image": "/assets/media/RoboLaunch_Graphic.webp",
+      "url": "https://riss.ri.cmu.edu/robolaunch/"
+    },
+    {
+      "title": "Tartan Planning Series",
+      "description": "Co-organized the Spring 2023 series of talks, tutorials, and interactive learning on robot planning.",
+      "image": "/assets/media/TartanPlanningPromo.webp",
+      "url": "https://theairlab.org/tartanplanningseries/"
+    },
+    {
+      "title": "Tartan SLAM Series",
+      "description": "Co-organized an interactive series of talks, tutorials, and learning on simultaneous localization and mapping.",
+      "image": "/assets/media/TSS.webp",
+      "url": "https://theairlab.org/tartanslamseries/"
+    },
+    {
+      "title": "Tartan SLAM Series — Fall Edition",
+      "description": "Co-organized the Fall 2021 edition, connecting the robotics community through talks and tutorials on SLAM.",
+      "image": "/assets/media/TSS_Fall_Edition.webp",
+      "url": "https://theairlab.org/tartanslamseries2/"
+    }
+  ],
+  "collaborations": [
+    {
+      "name": "AIST — Frontier AI Research, Japan",
+      "url": "https://frontia-ai.go.jp/en/"
+    },
+    {
+      "name": "IARPA — WRIVA",
+      "url": "https://www.iarpa.gov/research-programs/wriva"
+    },
+    {
+      "name": "Near Earth Autonomy",
+      "url": "https://www.nearearth.aero/"
+    },
+    {
+      "name": "DARPA — Shared Airspace"
+    },
+    {
+      "name": "DSTA — Multi-Robot Search & Rescue"
+    },
+    {
+      "name": "Bosch",
+      "url": "https://www.bosch.com/research/"
+    }
+  ]
+}
