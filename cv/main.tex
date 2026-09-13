@@ -1,0 +1,29 @@
+% !TeX program = xelatex
+% Compile with: latexmk -xelatex -outdir=build main.tex
+\documentclass[11pt,letterpaper]{article}
+\input{style}
+\addbibresource{research.bib}
+
+\begin{document}
+\nocite{*}
+\thispagestyle{firstpage}
+{\fontsize{27}{32}\selectfont Nikhil Varma Keetha\par}
+\vspace{5pt}
+{\small
+\href{mailto:nkeetha@andrew.cmu.edu}{nkeetha@andrew.cmu.edu}\contactsep
+\href{https://nik-v9.github.io/}{nik-v9.github.io}\contactsep
+\href{https://scholar.google.com/citations?user=ZTm5H50AAAAJ\&hl=en}{Google Scholar}\contactsep
+\href{https://github.com/Nik-V9}{GitHub}\contactsep
+\href{https://www.linkedin.com/in/nik-v9/}{LinkedIn}\par}
+\vspace{5pt}
+
+\input{sections/education}
+\input{sections/experience}
+\input{sections/awards}
+\input{sections/research}
+\input{sections/press}
+\input{sections/talks}
+\input{sections/projects}
+\input{sections/service}
+\input{sections/outreach}
+\end{document}
