@@ -73,7 +73,7 @@ website's existing GitHub Pages workflow; LaTeX is not a dependency of normal we
 
 Education dates and the full header name follow the September 2026 corrections. The M.S. GPA
 (4.12/4.0) and B.Tech. GPA (8.94/10.0) are retained from the prior CV; no Ph.D. GPA or expected
-graduation date is inferred. The Ph.D. thesis is labeled in progress. Appointment and outreach
+graduation date is inferred. The Ph.D. thesis uses the label "Thesis." Appointment and outreach
 dates come from the prior personal CV. Current roles, research, awards, talks, and service use
 the September 2026 notes and the current website. Research descriptions are preserved.
 

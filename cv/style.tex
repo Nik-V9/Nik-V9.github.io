@@ -51,7 +51,13 @@
   \begin{tabularx}{\linewidth}{@{}>{\RaggedRight\arraybackslash}X@{\hspace{12pt}}r@{}}%
   \textbf{#1}&{\small\color{muted}#2}\end{tabularx}\par}
 \newcommand{\detail}[1]{{\small #1\par}}
-\newenvironment{cventry}{\par\addvspace{7pt}\noindent\begin{minipage}{\linewidth}\RaggedRight}{\end{minipage}\par}
+\newcommand{\entrysetup}{}
+\newenvironment{cventry}{\par\addvspace{7pt}\noindent\begin{minipage}{\linewidth}\RaggedRight\entrysetup}{\end{minipage}\par}
+% Extra breathing room within education and experience entries only.
+\newenvironment{spaciousentries}{%
+  \renewcommand{\entrysetup}{\linespread{1.12}\selectfont\setlength{\parskip}{1.5pt}}%
+  \setlist*[itemize]{itemsep=2.5pt}%
+}{}
 \setlist[itemize]{leftmargin=12pt,label=\textbullet,topsep=3pt,itemsep=1pt,parsep=0pt,partopsep=0pt}
 \newenvironment{cvitems}{\begin{itemize}\small}{\end{itemize}}
 
