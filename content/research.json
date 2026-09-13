@@ -436,7 +436,7 @@
     "venue": "NeurIPS 2024",
     "url": "https://mapitanywhere.github.io/",
     "summary": "A data engine pairing street-level imagery with public maps at scale, enabling more generalizable bird’s-eye-view mapping across diverse environments.",
-    "highlighted": false,
+    "highlighted": true,
     "links": [
       [
         "Project",
