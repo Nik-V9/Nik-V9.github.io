@@ -12,6 +12,8 @@ LABELS = ['Featured Research', 'Awards', 'Press', 'Talks', 'Service', 'Outreach'
 
 def check(base):
     RESULTS.mkdir(exist_ok=True)
+    research = json.loads((ROOT / 'content/research.json').read_text())
+    highlights = {paper['id'] for paper in research if paper['highlighted']}
     errors, failed_requests, checks = [], [], []
     with sync_playwright() as p:
         browser = p.chromium.launch(channel='chrome', headless=True)
@@ -25,7 +27,8 @@ def check(base):
             page.goto(base, wait_until='networkidle')
             page.evaluate('document.fonts.ready')
             assert page.locator('.research-row').count() == 13
-            assert page.locator('.research-row.highlighted').count() == 6
+            rendered_highlights = page.locator('.research-row.highlighted').evaluate_all('(rows) => rows.map(row => row.id)')
+            assert set(rendered_highlights) == highlights
             for label in LABELS:
                 page.get_by_role('tab', name=label, exact=True).click()
                 assert page.locator('.panel:visible').count() == 1, (width, label)

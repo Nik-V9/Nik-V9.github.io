@@ -18,6 +18,7 @@ class Document(HTMLParser):
         self.refs = []
         self.errors = []
         self.rows = []
+        self.highlights = set()
         self.tabs = []
         self.panels = []
 
@@ -37,6 +38,8 @@ class Document(HTMLParser):
             self.errors.append('Image missing descriptive alt text')
         if 'research-row' in attrs.get('class', '').split():
             self.rows.append((id, attrs.get('data-release')))
+            if 'highlighted' in attrs.get('class', '').split():
+                self.highlights.add(id)
         if 'tab' in attrs.get('class', '').split():
             self.tabs.append(id)
         if 'panel' in attrs.get('class', '').split():
@@ -48,12 +51,12 @@ def check():
     research = json.loads((ROOT / 'content/research.json').read_text())
     expected = {'mapanything', 'ufm', 'any4d', 'multiperspective', 'hyperscape', 'flowr',
                 'rayfronts', 'raven', 'visafe', 'mapitanywhere', 'splatam', 'anyloc', 'foundloc'}
-    highlights = {'mapanything', 'ufm', 'any4d', 'multiperspective', 'splatam', 'anyloc'}
+    highlights = {p['id'] for p in research if p.get('highlighted') is True}
     if len(research) != 13 or {p['id'] for p in research} != expected:
         errors.append('Research selection differs from the approved 13 works')
-    if {p['id'] for p in research if p['highlighted']} != highlights:
-        errors.append('Highlighted selection differs from the approved six works')
     for paper in research:
+        if type(paper.get('highlighted')) is not bool:
+            errors.append(f'Highlight flag must be a boolean: {paper["id"]}')
         date.fromisoformat(paper['release_date'])
         if not paper.get('authors') and not paper.get('team'):
             errors.append(f'Missing attribution: {paper["id"]}')
@@ -89,6 +92,8 @@ def check():
         expected_order = [(p['id'], p['release_date']) for p in sorted(research, key=lambda p: (p['release_date'], p['id']), reverse=True)]
         if home.rows != expected_order:
             errors.append('Rendered research is not in release-date order')
+        if home.highlights != highlights:
+            errors.append('Rendered highlights differ from content settings')
         if len(home.tabs) != 7 or len(home.panels) != 7:
             errors.append('Expected seven tabs and panels')
         plain = re.sub(r'<[^>]+>', '', (OUT / 'index.html').read_text())
@@ -103,7 +108,7 @@ def check():
             errors.append(f'Missing required file: {path}')
     if errors:
         raise SystemExit('\n'.join(errors))
-    print(f'PASS: {len(docs)} HTML pages, 13 research entries, six highlights, seven panels, and all local links/assets.')
+    print(f'PASS: {len(docs)} HTML pages, 13 research entries, {len(highlights)} highlights, seven panels, and all local links/assets.')
 
 
 if __name__ == '__main__':

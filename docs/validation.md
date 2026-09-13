@@ -1,12 +1,14 @@
 # Website validation — September 2026
 
-Validated locally on September 12, 2026. The live GitHub Pages site has not been changed.
+Local validation for the September 2026 website release, including the final content edits.
 
 ## Build and content
 
 - Python standard-library build completes without network access or third-party packages.
 - 63 HTML pages generated, including the homepage, legacy redirects, news archive, and error page.
-- Exactly 13 research entries, six highlighted works, and seven tab panels.
+- Exactly 13 research entries, seven highlighted works, and seven tab panels.
+- Both content and browser checks verify rendered highlights against the content settings,
+  so changing the selected works does not require editing a fixed list in the checks.
 - Research is ordered by first public release; publication venues are independent of sorting.
 - All generated local links, fragments, images, fonts, video paths, and required files resolve.
 - The current CV PDF is byte-for-byte identical to the version on the original `master` branch.
