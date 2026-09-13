@@ -251,13 +251,13 @@
       "order": 1
     },
     {
-      "title": "COVID-19 Twitter Sentiment Analysis India (IBM Hackathon 2020)",
+      "title": "COVID-19 Twitter Sentiment Analysis India IBM Hackathon 2020",
       "description": "Developed a Visualization Dashboard for COVID-19 Twitter Sentiment Analysis & Extraction using a modified Roberta & Roberta-CNN model",
       "url": "https://github.com/Nik-V9/SBSPS-Challenge-2700-Twitter-Sentiment-Analysis-Extraction-for-COVID-19",
       "order": 2
     },
     {
-      "title": "Twitter Sentiment Extraction (Kaggle Competition)",
+      "title": "Twitter Sentiment Extraction Kaggle Competition",
       "description": "Developed a modified Roberta base model with CNN head for Twitter Sentiment Extraction & Implemented Teacher Student learning and Ensembling for improvement of Model Performance. Placed 58/2,227 (Top 3%) - Silver Medal",
       "url": "https://www.kaggle.com/competitions/tweet-sentiment-extraction/leaderboard",
       "order": 3

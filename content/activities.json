@@ -1,6 +1,11 @@
 {
   "awards": [
     {
+      "date": "2025–2027",
+      "title": "Meta Academic Research Grants",
+      "detail": "Thesis research at CMU supported by two Meta Academic Research Grants ($400K each)."
+    },
+    {
       "date": "2026",
       "title": "Outstanding Reviewer",
       "detail": "ECCV 2026",
@@ -11,11 +16,6 @@
       "title": "Outstanding Reviewer",
       "detail": "CVPR 2026",
       "url": "https://cvpr.thecvf.com/Conferences/2026/ProgramCommittee"
-    },
-    {
-      "date": "2025–2027",
-      "title": "Meta Academic Research Grants",
-      "detail": "Thesis research at CMU supported by two Meta Academic Research Grants ($400K each)."
     },
     {
       "date": "2025",
@@ -223,7 +223,8 @@
     {
       "title": "Mentorship",
       "items_html": [
-        "Mentoring researchers at CMU and research interns at Meta."
+        "Mentored many researchers at CMU and research interns at Meta.",
+        "CMU Undergraduate AI Mentoring Program and SCS Mentorship Program."
       ]
     }
   ],

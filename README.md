@@ -1,7 +1,7 @@
 # Nikhil Keetha’s website
 
 A lightweight, accessible academic website at **https://nik-v9.github.io/**.
-HTML and CSS follow the compact academic layout of Alexander Sax and Jon Barron;
+HTML and CSS follow the compact academic layout of Jon Barron's website;
 the site uses orange accents, seven accessible tabs, and visibility-aware research videos.
 
 ## Build and preview

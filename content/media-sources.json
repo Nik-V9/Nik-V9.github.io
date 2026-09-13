@@ -12,10 +12,15 @@
         "/assets/media/multiperspective.webp",
         "/assets/media/multiperspective.mp4"
       ],
-      "original_url": "https://ethanweber.me/realitylabs/4.mp4",
-      "selection": "Text-free interior panorama. The coauthor page labels this task Text to 360 Video.",
+      "original_urls": [
+        "https://ethanweber.me/realitylabs/1.mp4",
+        "https://ethanweber.me/realitylabs/3.mp4",
+        "https://ethanweber.me/realitylabs/4.mp4",
+        "https://ethanweber.me/realitylabs/5.mp4"
+      ],
+      "selection": "2×2 collage in reading order: Sparse Images to Video (house), Image to Video (festival), Text to 360 Video (interior), and Image to Sparse Images (pear). Excludes clip 2, the Lego NeRF example, as requested.",
       "reuse": "Publicly linked by coauthor Ethan Weber. No explicit media reuse license found on the page.",
-      "processing": "H.264/yuv420p MP4, width capped at 600 without upscaling (even dimensions for H.264), 24 fps, no audio, faststart. WebP poster sampled from final encode."
+      "processing": "12-second 600×376 H.264/yuv420p MP4 at 24 fps, CRF 23, no audio, faststart. Four 300×188 cells preserve source proportions with white padding and narrow gutters; each source loops at its original speed. WebP poster sampled at 1 second from the final encode."
     },
     {
       "id": "any4d",

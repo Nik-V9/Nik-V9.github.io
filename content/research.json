@@ -1,19 +1,15 @@
 [
   {
     "id": "multiperspective",
-    "short_title": "Multi-Perspective Generative Model",
-    "title": "Multi-Perspective Generative Model",
+    "short_title": "Pomelo",
+    "title": "Pomelo: Multi-Perspective Generative Model",
     "team": "Meta Reality Labs",
     "release_date": "2026-06-02",
     "venue": "Public research demo · 2026",
     "url": "https://ethanweber.me/#publications",
-    "summary": "A flexible generative model connects sparse images, video, text, and 360° views to synthesize scenes from new perspectives.",
+    "summary": "A flexible generative model that can solve multiple tasks in one go: novel view synthesis, 3DGS reconstruction, camera-controlled flythroughs and 360s.",
     "highlighted": true,
     "links": [
-      [
-        "Demos",
-        "https://ethanweber.me/#publications"
-      ],
       [
         "Thread",
         "https://x.com/Nik__V__/status/2061929833584533801"
@@ -26,9 +22,9 @@
     "media": {
       "poster": "/assets/media/multiperspective.webp",
       "video": "/assets/media/multiperspective.mp4",
-      "width": 556,
-      "height": 348,
-      "alt": "A generated indoor scene viewed through a smooth camera-controlled panorama."
+      "width": 600,
+      "height": 376,
+      "alt": "Four Pomelo examples: a house generated from sparse images, a festival video generated from an image, an indoor panorama generated from text, and new viewpoints of a pomelo wearing sunglasses."
     }
   },
   {
@@ -47,7 +43,7 @@
     "release_date": "2025-12-11",
     "venue": "CVPR 2026",
     "url": "https://any-4d.github.io/",
-    "summary": "A feed-forward model jointly reconstructs metric 3D geometry and dense motion across multiple frames, with flexible support for additional sensor inputs.",
+    "summary": "A feed-forward model that jointly predicts metric 3D geometry and dense motion across multiple frames, with flexible support for additional sensor inputs.",
     "highlighted": true,
     "links": [
       [
@@ -127,7 +123,7 @@
       "height": 338,
       "alt": "An aerial robot explores an outdoor environment using semantic scene memory."
     },
-    "distinction": "Oral presentation"
+    "distinction": "Oral"
   },
   {
     "id": "mapanything",
@@ -155,7 +151,7 @@
     "release_date": "2025-09-16",
     "venue": "3DV 2026",
     "url": "https://map-anything.github.io/",
-    "summary": "A unified transformer reconstructs metric 3D scenes from images and optional camera poses, intrinsics, or depth, bringing diverse geometric tasks into one model.",
+    "summary": "A unified transformer model that directly regresses the factored metric 3D geometry of a scene given various types of inputs (images, calibration, poses, or depth).",
     "highlighted": true,
     "links": [
       [
@@ -269,7 +265,7 @@
     "release_date": "2025-05-06",
     "venue": "RSS 2025 · Demonstrations",
     "url": "https://theairlab.org/visafe/",
-    "summary": "A vision-only detect-and-avoid system integrates perception and safety-aware control, demonstrated in real flight tests with closure rates up to 144 km/h.",
+    "summary": "A vision-only detect-and-avoid system which integrates high-speed perception with safety-aware control. Demonstrated real flight tests with closure rates up to 144 km/h.",
     "highlighted": false,
     "links": [
       [
@@ -321,8 +317,8 @@
     "release_date": "2025-04-09",
     "venue": "IROS 2025",
     "url": "https://rayfronts.github.io/",
-    "summary": "Open-set semantic mapping connects nearby 3D voxels with distant ray frontiers, letting robots reason about and explore beyond their depth-sensing range.",
-    "highlighted": false,
+    "summary": "An open-set semantic mapping system which combines 3D voxels with ray frontiers, letting robots reason about and explore beyond their depth-sensing range.",
+    "highlighted": true,
     "links": [
       [
         "Project",
@@ -368,7 +364,7 @@
     "release_date": "2025-04-02",
     "venue": "ICCV 2025",
     "url": "https://tobiasfshr.github.io/pub/flowr/",
-    "summary": "Multi-view flow matching generates consistent additional views from sparse reconstructions, improving scene coverage and novel-view quality.",
+    "summary": "Learning a direct mapping between incorrect renderings and their corresponding ground-truth images, augmenting scene captures with consistent novel, generated views to improve reconstruction quality.",
     "highlighted": false,
     "links": [
       [
@@ -401,16 +397,12 @@
     "release_date": "2024-09-25",
     "venue": "Public demo · 2024 / Capture launch · 2025",
     "url": "https://www.meta.com/blog/hyperscape-worlds-sharing-hangout-friends-metaverse-digital-replicas/",
-    "summary": "Photorealistic reconstruction turns captured physical spaces into immersive digital replicas that people can explore and share in VR.",
+    "summary": "Photorealistic reconstruction turning captured physical spaces into immersive digital replicas that people can explore and share in VR.",
     "highlighted": false,
     "links": [
       [
         "Project",
         "https://www.meta.com/blog/hyperscape-worlds-sharing-hangout-friends-metaverse-digital-replicas/"
-      ],
-      [
-        "Demo",
-        "https://x.com/JonathonLuiten/status/1968474776793403734"
       ]
     ],
     "sources": [
@@ -443,7 +435,7 @@
     "release_date": "2024-07-11",
     "venue": "NeurIPS 2024",
     "url": "https://mapitanywhere.github.io/",
-    "summary": "A data engine pairs street-level imagery with public maps at scale, enabling more generalizable bird’s-eye-view mapping across diverse environments.",
+    "summary": "A data engine pairing street-level imagery with public maps at scale, enabling more generalizable bird’s-eye-view mapping across diverse environments.",
     "highlighted": false,
     "links": [
       [
@@ -542,7 +534,7 @@
     "release_date": "2023-10-25",
     "venue": "arXiv 2023",
     "url": "https://anyloc.github.io/FoundLoc/",
-    "summary": "Foundation-model place recognition and visual-inertial odometry enable onboard aerial localization against satellite imagery, without GPS or a known starting pose.",
+    "summary": "AnyLoc-based place recognition and visual-inertial odometry enable onboard aerial localization against satellite imagery, without GPS or a known starting pose.",
     "highlighted": false,
     "links": [
       [
@@ -586,7 +578,7 @@
     "release_date": "2023-08-01",
     "venue": "IEEE RA-L 2024 · ICRA 2024",
     "url": "https://anyloc.github.io/",
-    "summary": "Off-the-shelf foundation-model features and unsupervised aggregation enable visual place recognition across environments, without task-specific training.",
+    "summary": "Off-the-shelf image foundation model features and unsupervised aggregation enable state-of-the-art visual place recognition across environments, without task-specific training.",
     "highlighted": true,
     "links": [
       [

@@ -13,14 +13,15 @@ The supplemental ChatGPT research pack was treated as leads rather than a source
 - ViSafe’s project page confirms equal contribution for Parv Kapoor, Ian Higgins, Nikhil Keetha, and Jay Patrikar.
 - AnyLoc uses the 2024 RA-L issue year (IEEE Xplore document 10361537), while its release date remains August 2023.
 - FoundLoc remains labeled as an arXiv preprint; no later venue is inferred.
-- Multi-Perspective Generative Model is labeled as a public research demo, with team attribution.
+- Pomelo: Multi-Perspective Generative Model is labeled as a public research demo, with team attribution.
   Its sorting date is the June 2, 2026 timestamp of the supplied public X announcement linked by Ethan Weber.
 - Hyperscape sorts by its September 2024 public preview, with the 2025 Capture launch stated separately.
 - Per-entry source links are retained in `content/research.json`; they are not an extra visible UI element.
 
 ## Activities
 
-- The two Meta grants appear as one ordinary Awards entry using the user’s wording.
+- The two Meta grants appear as one ordinary Awards entry using the user’s wording, ordered first
+  by the 2027 end date without additional visual emphasis.
 - Dates for private talks and appointments retain the granularity provided by the user; no day/month is invented.
 - The November 2025 Learning for 3D Vision lecture and its slides were checked against the course schedule.
 - The June 2026 invited workshop talk was checked against the Image Matching Workshop schedule.
